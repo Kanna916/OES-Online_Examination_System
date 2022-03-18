@@ -7,3 +7,7 @@
 Kanna916/Kanna916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+The above project is done Using javaFX and and core java.
+I have used MySQL DB here.
+Thank you.
